@@ -1,0 +1,7 @@
+button.btn-modern:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 2px;
+    background-color:deeppink;
+    color:aqua;
+    transition: 0.4s;
+}
