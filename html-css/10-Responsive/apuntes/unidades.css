@@ -2,6 +2,7 @@ body {
     padding: 20px;
     margin: 0;
 }
+
 .escenario {
     margin: 10px 0px;
     border: 1px solid #ccc;
@@ -11,6 +12,7 @@ body {
 .escenario-1 {
     width: 100%;
 }
+
 .escenario-2 {
     width: 50%;
 }
